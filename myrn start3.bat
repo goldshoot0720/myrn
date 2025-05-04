@@ -1,0 +1,1 @@
+cd "C:\Users\chbon\Documents\myrn" && npx react-native run-android
